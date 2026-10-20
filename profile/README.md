@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DelverLab/.github/main/profile/assets/delverlab-banner-dark.svg">
-  <img alt="DelverLab: design experiments in one place, run them on any device" src="https://raw.githubusercontent.com/DelverLab/.github/main/profile/assets/delverlab-banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DelverLab/.github/main/brand/svg/delverlab-banner-dark-bg.svg">
+  <img alt="DelverLab: design experiments in one place, run them on any device" src="https://raw.githubusercontent.com/DelverLab/.github/main/brand/svg/delverlab-banner-light-bg.svg" width="100%">
 </picture>
 
 **DelverLab** is an open-source, self-hostable platform for running research experiments.
